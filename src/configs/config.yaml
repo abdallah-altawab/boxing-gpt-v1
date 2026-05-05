@@ -1,0 +1,69 @@
+# ============================================================
+#  BoxingGPT — Configuration File
+#  All hyperparameters are defined here.
+#  Start with "nano" for fast iteration, scale up to "small".
+# ============================================================
+
+model:
+  name: "boxing-gpt-nano"
+
+  # --- Transformer Architecture ---
+  vocab_size: 8000          # BPE vocabulary size (train your own)
+  context_length: 256       # Max tokens the model sees at once (sequence length)
+  n_layers: 6               # Number of transformer blocks stacked
+  n_heads: 6                # Number of attention heads (must divide d_model)
+  d_model: 384              # Embedding dimension (d_model)
+  d_ff: 1536                # Feed-forward hidden dim (usually 4 * d_model)
+  dropout: 0.1              # Dropout probability
+
+  # --- Presets you can switch to ---
+  # nano:  n_layers=6,  n_heads=6,  d_model=384  (~10M params)
+  # small: n_layers=12, n_heads=12, d_model=768  (~85M params, like GPT-2 small)
+
+tokenizer:
+  type: "bpe"               # Byte-Pair Encoding
+  vocab_size: 8000
+  special_tokens:
+    pad: "<PAD>"
+    unk: "<UNK>"
+    bos: "<BOS>"
+    eos: "<EOS>"
+
+training:
+  # --- Data ---
+  data_path: "data/processed/corpus.txt"
+  train_split: 0.95         # 95% train, 5% validation
+
+  # --- Optimization ---
+  batch_size: 32            # Sequences per batch
+  gradient_accumulation_steps: 4  # Effective batch = batch_size * grad_accum
+  max_epochs: 20
+  max_iters: 50000          # Hard cap on training steps
+
+  # --- Learning Rate (cosine decay with warmup) ---
+  learning_rate: 3.0e-4
+  min_lr: 3.0e-5            # LR floor after cosine decay
+  warmup_iters: 500         # Steps to linearly warm up LR
+  lr_decay_iters: 45000     # Steps to decay to min_lr
+
+  # --- Regularization ---
+  weight_decay: 0.1
+  grad_clip: 1.0            # Gradient clipping norm
+
+  # --- Logging & Checkpointing ---
+  eval_interval: 500        # Evaluate every N steps
+  eval_iters: 100           # Number of batches to average for eval loss
+  log_interval: 50          # Print loss every N steps
+  checkpoint_dir: "checkpoints/"
+  checkpoint_interval: 1000 # Save checkpoint every N steps
+
+  # --- Device ---
+  device: "cuda"            # "cuda" | "mps" | "cpu"
+  compile: false            # torch.compile() — requires PyTorch 2.0+
+  mixed_precision: true     # Use bfloat16 for faster training on GPU
+
+inference:
+  temperature: 0.8          # Sampling temperature (higher = more random)
+  top_k: 40                 # Top-K sampling
+  top_p: 0.9                # Nucleus (Top-P) sampling
+  max_new_tokens: 200       # Max tokens to generate
