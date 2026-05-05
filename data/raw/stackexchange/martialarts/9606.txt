@@ -1,0 +1,12 @@
+# How are arm-triangle chokes classified in Judo?
+
+There are various styles of choke involving an arm-triangle: Uke supine Kata-gatame choke North-South choke ( with arm in ) Von Flue choke From sprawl D'Arce choke Anaconda choke Peruvian necktie How are these chokes classified by the Kodokan?
+
+## Answer (score: 4)
+As of Germany, all of these would be considered a form of hadaka jime since every choke that is not with the legs and not executed using the gi is classified as such. That being said, we do have strange classifications at times (Hofmann, not Kodokan), so that one may be off as well. I, personally, think it makes a lot of sense here, though. For what it's worth, Mifune calls it hadaka jime in his Canon of Judo as well (p.137)
+
+## Answer (score: 2)
+I still haven't found any info on the Kodokan's position, but the IJF seems to classify such techniques as hadaka-jime when they occur in competition e.g: Technique IJF Hadaka-jime examples D'arce choke 2017 Budapest WC | Kukolj v Safguliyev Peruvian Necktie 2021 Hungary WC | Agbegnenou vs Vermeer 2020 Paris Grand Slam | Van T End v Aminot 2018 Zagreb Grand Prix | Buchard v Stangar 2017 Budapest WC | Shemesh v Valkova In its Sports Regulations the IJF refers to these positions as a "kata-sankaku grip" (with example images of anaconda-style triangles):
+
+## Answer (score: 1)
+Kata-gatame is classified as an osaekomi-waza technique in Kodokan judo. Often this osaekomi-waza appears as a european shime-waza when tori is very strong. Even hon-gesa-gatame could also be seen as a shime-waza when uke is under very strong judoka. That’s the reason why opponents often submit under Teddy Riner. The Von Flue choke doesn’t exist in judo because as you can see in your last picture, this MMA technique is a counter choke against a guillotine, and the guillotine is hansoku-make.

@@ -1,0 +1,96 @@
+# AI Punch Stats using Computer Vision and Deep Learning. WDYT?
+
+
+---
+This is very cool but how would they fix fights? 😉
+
+---
+Modern times call for modern solutions!
+
+---
+Correct. I also think someone who's willing to take one to give one, or is tapped with a flick whilst moving / rolling with the punches should be counted equally either.
+
+I like the boundary boxes though and I'm sure by analysing subconscious things such as feints, movement biases etc. you can get the upper hand.
+
+---
+About 18 months ago a boxing fanatic friend of mine quit his job as a machine learning engineer to build an AI using Deep Learning and Computer Vision to automatically count and classify punches thrown and landed in a boxing match.
+
+Since then he's been living of cereal whilst coding day and night, and now finally a beta is ready, so I figured I'd share with fellow redditors.
+
+More videos available on [YouTube](https://www.youtube.com/channel/UCZ_XaxvYZdkSi05ivLwB96g)  and [Instagram](https://www.instagram.com/jabbr.ai).
+
+The system is still at an early stage of development and far from perfect, but it's a start. Comments, suggestions, feedback, are very welcome and will be much appreciated!
+
+**[EDIT] From Allan (my friend):** Wow, thank you so much everyone!! All those positive comments mean the world to me! I've put everything i have into building this, so can't explain how much it means to see that there are people out there thinks it's good and worthwhile work
+He can't comment himself because his account is too new, i will add his comments on his behalf.
+
+---
+Holy shit I thought I was the only one? I get clowned on for having a notebook during big fights. 
+
+I just always been fascinated over fraudulent judges and boxing analytics.
+
+---
+Very cool. What are the determinant factors in the "quality" rating? Is that meant to indicate the power of the punch landed, the shots that landed more cleanly, or something else entirely?
+
+---
+*from Allan:* The quality rating is a regression model that funnels various features into a single score, briefly it considers 3 things:
+
+* **Cleanliness**: Does the punch land cleanly, or is partially or fully blocked
+* **Accuracy**: Does the punch land in a way that can transfer power, or is it just grazing the target or being rolled away
+* **Effect**: Does the target show visible effect when hit, i.e. is the head bumping and how much is it bumping
+
+The quality and target rating is the most difficult thing to get working, especially the body punches are difficult to classify, so a lot of work is still needed here to make it good and consistent. And we're still experimenting on how it's best done so suggestions and ideas are always welcome and much appreciated!
+
+---
+As for the Effect consideration, kindly tell your awesome friend to take into consideration a fighter's hair length.  Machine learning might be unnecessarily influenced when a fighter's head bump seems more forceful with longer hair than with someone who's bald, for example.  He's done an awesome job so far.  Also, he's awesome.
+
+---
+How can it tell if someone moved their head back with the punch instead of having their head pushed back?
+
+---
+That's great stuff, bud. Hope we see more on this as it progresses!
+
+---
+Could this be synced to run across multiple camera angles at the same time? Or is it not needed?
+
+---
+It's not necessary but will of course give better basis for analysis because of the multiple angles! There is a small demo video on the website that shows this very nicely. Check it out if you like. It's at https://jabbr.ai
+
+---
+Awesome! Thanks for the quick reply and I hope this gets deployed on all professional fights in the future. 
+
+Great work Obeyed!
+
+---
+This is what I've wanted for decades, the person who nails this will be a millionaire for life.
+
+---
+Can it be layered over a live fight and give results in real time? Unfortunately, we will always need human judges to assess the non punch count factors that go into who wins a fight, but something like this (especially if it could somehow quantify the impact of a shot) would really help to create fair outcomes. Let’s not tell Vegas or Golden Boy it may be harder for them to fix fights just yet though.
+
+---
+*from Allan:*  
+Yes in theory it could provide live-stats, but right now it just takes pre-recorded video-clips as input. It doesn't run real-time yet, and we're also still working on improving it's accuracy on landed punches. But yes hopefully we can secure an investment somewhere so that we have the resources to prepare it for live-stats as well.
+
+---
+Allan is awesome, I really like the look of his creation. I wish all sports would use technology to produce the most accurate officiating/scoring possible. Every time a league makes some excuse to not use whatever their version of this would be all I hear is “but how would we influence the outcome if we used this technology?”
+
+---
+This is the future!
+
+Honestly, this should probably be the current. But I'm sure the powers that be can't have such a transparent and accurate scoring system.
+
+---
+Ask Alan if he can make a decent boxing game in his spare time for us, we'll give him plenty cash he can use for his projects by making the game, fake belts, names they used to do in the old PES football games to get away twith licensing and stuff, the AWC title or something too, just make the boxers look kinda similar.
+
+We beens starving for like a decade, and at this point it feels like another decade before Esports will ever be released. There is some other one I saw on youtube being made, Undisputed or something but not sure if its for consoles or mobile etc.
+
+Looks like he could do it easy, just decent graphics, nothing special, more the gameplay and movement with decent career or story mode. I'll even donate the first 5 quid to the gofundme for Alan.
+
+It'll be his Lucky Charm and he won't have to live of cereal anymore while he finishes this project.
+
+---
+This is really awesome!
+
+In terms of adoption, I regularly see how challenging it is to replace existing workflows with AI. IMHO the best next step is to make an AI assisted system similar to compubox where an expert/consensus can quickly correct the AI. This alleviates some of the challenges associated with trust and you get more training labels by just using it.
+
+I do independent test and evaluation of AI models for work. I would love to learn more about this and help test and track it's progress.

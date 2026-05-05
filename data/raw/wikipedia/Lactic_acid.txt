@@ -1,0 +1,101 @@
+# Lactic acid
+
+Lactic acid is an organic acid with the molecular formula C3H6O3. In its solid state, it is white and miscible with water. When dissolved, it forms a colorless solution. Production includes both artificial synthesis and natural sources. Lactic acid is an alpha-hydroxy acid (AHA) due to the presence of a hydroxyl group adjacent to the carboxyl group. It is a synthetic intermediate in many organic synthesis industries and in various biochemical industries. The conjugate base of lactic acid is called lactate (or the lactate anion). The name of the derived acyl group is lactoyl.
+In solution, it can ionize by a loss of a proton to produce the lactate ion CH3CH(OH)CO2–, also known as 2-hydroxypropanoate. Compared to acetic acid, its pKa is 1 unit less, meaning that lactic acid is ten times more acidic than acetic acid. This higher acidity is the consequence of intramolecular hydrogen bonding between the α-hydroxyl and the carboxylate group.
+Lactic acid is chiral, consisting of two enantiomers. One is known as L-lactic acid, (S)-lactic acid, or (+)-lactic acid, and the other, its mirror image, is D-lactic acid, (R)-lactic acid, or (−)-lactic acid. A mixture of the two in equal amounts is called DL-lactic acid, or racemic lactic acid. Lactic acid is hygroscopic. DL-Lactic acid is miscible with water and with ethanol above its melting point, which is 16–18 °C (61–64 °F). D-Lactic acid and L-lactic acid have a higher melting point. Lactic acid produced by fermentation of milk is often racemic, although certain species of bacteria produce solely D-lactic acid. On the other hand, lactic acid produced by fermentation in animal muscles has the (L) enantiomer and is sometimes called "sarcolactic" acid, from the Greek sarx, meaning "flesh".
+In animals, L-lactate is constantly produced from pyruvate via the enzyme lactate dehydrogenase (LDH) in a process of fermentation during normal metabolism and exercise. It does not increase in concentration until the rate of lactate production exceeds the rate of lactate removal, which is governed by a number of factors, including monocarboxylate transporters, concentration and isoform of LDH, and oxidative capacity of tissues. This reaction is reversible and redox-linked: LDH reduces pyruvate to lactate using NADH as an electron donor, simultaneously regenerating NAD⁺ required for glycolysis under anaerobic conditions. The concentration of blood lactate is usually 1–2 mMTooltip millimolar at rest, but can rise to over 20 mM during intense exertion and as high as 25 mM afterward. In addition to other biological roles, L-lactic acid is the primary endogenous agonist of hydroxycarboxylic acid receptor 1 (HCA1), which is a Gi/o-coupled G protein-coupled receptor (GPCR).
+In industry, lactic acid fermentation is performed by lactic acid bacteria, which convert simple carbohydrates such as glucose, sucrose, or galactose to lactic acid. These bacteria can also grow in the mouth; the acid they produce is responsible for the tooth decay known as cavities. In medicine, lactate is one of the main components of lactated Ringer's solution and Hartmann's solution. These intravenous fluids consist of sodium and potassium cations along with lactate and chloride anions in solution with distilled water, generally in concentrations isotonic with human blood. It is most commonly used for fluid resuscitation after blood loss due to trauma, surgery, or burns.
+Lactic acid is produced in human tissues when the demand for oxygen is limited by the supply. This occurs during tissue ischemia when the flow of blood is limited as in sepsis or hemorrhagic shock. It may also occur when demand for oxygen is high, such as with intense exercise. The process of lactic acidosis produces lactic acid, which results in an oxygen debt, which can be resolved or repaid when tissue oxygenation improves. 
+
+Swedish chemist Carl Wilhelm Scheele was the first person to isolate lactic acid in 1780 from sour milk. The name reflects the lact- combining form derived from the Latin word lac, meaning "milk". In 1808, Jöns Jacob Berzelius discovered that lactic acid (actually L-lactate) is also produced in muscles during exertion. Its structure was established by Johannes Wislicenus in 1873.
+In 1856, the role of Lactobacillus in the synthesis of lactic acid was discovered by Louis Pasteur. This pathway was used commercially by the German pharmacy Boehringer Ingelheim in 1895.
+Due to a combination of geographic and infrastructural factors, the Soviet Union, as well as several other members of the Warsaw Pact, experienced chronic shortages of citric and malic acid, among others. In order to combat this issue, the Narkomzem (Soviet Ministry of Agriculture) invested heavily in the development of suitable lactobacillus strains, which were able to produce lactic acid with relatively high efficiency from crude molasses feedstock. Despite synthetic citric acid being produced in some quantities across the Warsaw Pact, it proved far more difficult to purify, leading to lactic acid being, on average, a quarter of the cost of citric acid. The continued use of lactic acid in some Eastern European and Central Asian food production in the modern day, in favor of the more common citric or malic acids, lends it a distinctive flavor.
+Global demand for lactic acid continues to expand, with an estimated annual growth rate of 5–8% driven by the increasing use of biodegradable plastics, green solvents, and pharmaceutical intermediates. Worldwide production exceeded 1.5 million tonnes by the early 2020s, up from roughly 275,000 tonnes in 2006, and is projected to keep rising as biobased materials replace petroleum-derived products. Major producers include NatureWorks LLC, Purac, Galactic, and several Chinese manufacturers. NatureWorks operates one of the world’s largest polylactic acid (PLA) facilities in Blair, Nebraska, with a production capacity of about 140,000 tonnes per year, supplying feedstock for a wide range of biodegradable packaging and fiber applications. 
+
+Lactic acid is produced industrially by bacterial fermentation of carbohydrates, or by chemical synthesis from acetaldehyde. As of 2009, lactic acid was produced predominantly (70–90%) by fermentation. Production of racemic lactic acid consisting of a 1:1 mixture of D and L stereoisomers, or of mixtures with up to 99.9% L-lactic acid, is possible by microbial fermentation. Industrial production of the D-lactic acid enantiomer is technically more challenging because most naturally occurring lactic acid bacteria preferentially produce the L-form; obtaining high optical purity of D-lactic acid therefore requires genetically engineered microorganisms or specific D-lactate dehydrogenases.
+
+Fermented milk products are obtained industrially by fermentation of milk or whey by Lactobacillus bacteria: Lactobacillus acidophilus, Lacticaseibacillus casei (Lactobacillus casei), Lactobacillus delbrueckii subsp. bulgaricus (Lactobacillus bulgaricus), Lactobacillus helveticus, Lactococcus lactis , Bacillus amyloliquefaciens, and Streptococcus salivarius subsp. thermophilus (Streptococcus thermophilus).
+As a starting material for industrial production of lactic acid, almost any carbohydrate source containing C5 (pentose sugar) and C6 (hexose sugar) can be used. Pure sucrose, glucose from starch, raw sugar, and beet juice are frequently used. Lactic acid producing bacteria can be divided in two classes: homofermentative bacteria like Lactobacillus casei and Lactococcus lactis, producing two moles of lactate from one mole of glucose, and heterofermentative species, producing one mole of lactate from one mole of glucose, as well as carbon dioxide and acetic acid/ethanol.
+
+Racemic lactic acid is synthesized industrially by reacting acetaldehyde with hydrogen cyanide and hydrolysing the resultant lactonitrile. When hydrolysis is performed by hydrochloric acid, ammonium chloride forms as a by-product; the Japanese company Musashino is one of the last big manufacturers of lactic acid by this route. Synthesis of both racemic and enantiopure lactic acids is also possible from other starting materials (vinyl acetate, glycerol, etc.) by application of catalytic procedures.
+
+L-Lactic acid is the primary endogenous agonist of hydroxycarboxylic acid receptor 1 (HCA1), a Gi/o-coupled G protein-coupled receptor (GPCR).
+
+During power exercises such as sprinting, when the rate of demand for energy is high, glucose is broken down and oxidized to pyruvate, and lactate is then produced from the pyruvate faster than the body can process it, causing lactate concentrations to rise. The production of lactate is beneficial for NAD+ regeneration (pyruvate is reduced to lactate while NADH is oxidized to NAD+), which is used up in oxidation of glyceraldehyde 3-phosphate during production of pyruvate from glucose, and this ensures that energy production is maintained and exercise can continue. During intense exercise, the respiratory chain cannot keep up with the amount of hydrogen ions that join to form NADH, and cannot regenerate NAD+ quickly enough, so pyruvate is converted to lactate to allow energy production by glycolysis to continue.
+The resulting lactate can be used in two ways:
+
+Oxidation back to pyruvate by well-oxygenated muscle cells, heart cells, and brain cells
+Pyruvate is then directly used to fuel the Krebs cycle
+Conversion to glucose via gluconeogenesis in the liver and release back into circulation by means of the Cori cycle
+If blood glucose concentrations are high, the glucose can be used to build up the liver's glycogen stores.
+Lactate is continually formed at rest and during all exercise intensities. Lactate serves as a metabolic fuel being produced and oxidatively disposed in resting and exercising muscle and other tissues. Some sources of excess lactate production are metabolism in red blood cells, which lack mitochondria that perform aerobic respiration, and limitations in the rates of enzyme activity in muscle fibers during intense exertion. Lactic acidosis is a physiological condition characterized by accumulation of lactate (especially L-lactate), with formation of an excessively high proton concentration [H+] and correspondingly low pH in the tissues, a form of metabolic acidosis.
+The first stage in metabolizing glucose is glycolysis, the conversion of glucose to pyruvate− and H+:
+
+C6H12O6 + 2 NAD+ + 2 ADP3− + 2 HPO42– → 2 CH3COCO2– + 2 H+ + 2 NADH + 2 ATP4− + 2 H2O
+When sufficient oxygen is present for aerobic respiration, the pyruvate is oxidized to CO2 and water by the Krebs cycle, in which oxidative phosphorylation generates ATP for use in powering the cell.
+When insufficient oxygen is present, or when there is insufficient capacity for pyruvate oxidation to keep up with rapid pyruvate production during intense exertion, the pyruvate is converted to lactate− by lactate dehydrogenase), a process that absorbs these protons:
+
+2 CH3COCO2– + 2 H+ + 2 NADH  →  2 CH3CH(OH)CO2– + 2 NAD+
+The combined effect is:
+
+C6H12O6 + 2 ADP3− + 2 HPO42– → 2 CH3CH(OH)CO2– + 2 ATP4− + 2 H2O
+The production of lactate from glucose (glucose → 2 lactate− + 2 H+), when viewed in isolation, releases two H+. The H+ are absorbed in the production of ATP, but H+ is subsequently released during hydrolysis of ATP:
+
+ATP4− + H2O → ADP3− + H+ + HPO42–
+Once the production and use of ATP is included, the overall reaction is
+
+C6H12O6  →  2 H+ + 2 CH3CH(OH)CO2–
+The resulting increase in acidity persists until the excess lactate and protons are converted back to pyruvate, and then to glucose for later use, or to CO2 and water for the production of ATP.
+
+Lactate production and export contribute significantly to intracellular pH regulation in metabolically active tissues. In skeletal muscle, accumulation of lactic acid lowers intracellular pH, and monocarboxylate transporters facilitate the efflux of both lactate and H⁺, thereby helping maintain acid-base homeostasis and delaying fatigue.
+
+Although glucose is usually assumed to be the main energy source for living tissues, there is evidence that lactate, in preference to  glucose, is preferentially metabolized by neurons in the brains of several mammalian species that include mice, rats, and humans.  According to the lactate-shuttle hypothesis, glial cells are responsible for transforming glucose into lactate, and for providing lactate to the neurons. Because of this local metabolic activity of glial cells, the extracellular fluid immediately surrounding neurons strongly differs in composition from the blood or cerebrospinal fluid, being much richer with lactate, as was found in microdialysis studies.
+
+Some evidence suggests that lactate is important at early stages of development for brain metabolism in prenatal and early postnatal subjects, with lactate at these stages having higher concentrations in body liquids, and being utilized by the brain preferentially over glucose. It was also hypothesized that lactate may exert a strong action over GABAergic networks in the developing brain, making them more inhibitory than it was previously assumed, acting either through better support of metabolites, or alterations in base intracellular pH levels, or both.
+Studies of brain slices of mice show that β-hydroxybutyrate, lactate, and pyruvate act as oxidative energy substrates, causing an increase in the NAD(P)H oxidation phase, that glucose was insufficient as an energy carrier during intense synaptic activity and, finally, that lactate can be an efficient energy substrate capable of sustaining and enhancing brain aerobic energy metabolism in vitro. The study "provides novel data on biphasic NAD(P)H fluorescence transients, an important physiological response to neural activation that has been reproduced in many studies and that is believed to originate predominantly from activity-induced concentration changes to the cellular NADH pools."
+Lactate can also serve as an important source of energy for other organs, including the heart and liver. During physical activity, up to 60% of the heart muscle's energy turnover rate derives from lactate oxidation.
+
+In 2023, lactate was the 289th most commonly prescribed medication in the United States, with more than 500,000 prescriptions.
+
+Two molecules of lactic acid can be dehydrated to the lactone lactide.  In the presence of catalysts lactide polymerize to either atactic or syndiotactic polylactide (PLA), which are biodegradable polyesters. PLA is an example of a plastic that is not derived from petrochemicals.
+
+Lactic acid is also employed in pharmaceutical technology to produce water-soluble lactates from otherwise-insoluble active ingredients. It finds further use in topical preparations and cosmetics to adjust acidity and for its disinfectant and keratolytic properties.
+Lactic acid containing bacteria have shown promise in reducing oxaluria with its descaling properties on calcium compounds.
+
+Lactic acid is found in many fermented foods.
+
+Sour milk products, such as kumis, laban, yogurt, kefir, and some cottage cheeses, derive their flavor from lactic acid. The casein in fermented milk is coagulated (curdled) by lactic acid.
+Lactic acid is also responsible for the sour flavor of sourdough bread.
+Some beers (sour beer) purposely contain lactic acid, one such type being Belgian lambics. Most commonly, this is produced naturally by various strains of bacteria. These bacteria ferment sugars into acids, unlike the yeast that ferment sugar into ethanol. After cooling the wort, yeast and bacteria are allowed to "fall" into the open fermenters. Brewers of more common beer styles would ensure that no such bacteria are allowed to enter the fermenter. Other sour styles of beer include Berliner weisse, Flanders red and American wild ale.
+In winemaking, a bacterial process, natural or controlled, is often used to convert the naturally present malic acid to lactic acid, to reduce the sharpness and for other flavor-related reasons. This malolactic fermentation is undertaken by lactic acid bacteria.
+Pickling vegetables in brine creates a sour flavor as bacteria convert sugars into lactic acid.
+Fermented sausages
+In lists of nutritional information lactic acid might be included under the term "carbohydrate" (or "carbohydrate by difference") because this often includes everything other than water, protein, fat, ash, and ethanol. If this is the case then the calculated food energy may use the standard 4 kcal/g (17 kJ/g) that is often used for all carbohydrates. But in some cases lactic acid is ignored in the calculation. The actual energy density of lactic acid is 3.62 kcal/g (15.1 kJ/g).
+While not normally found in significant quantities in fruit, lactic acid is the primary organic acid in akebia fruit, making up 2.12% of the juice.
+
+As a food additive it is approved for use in the EU, United States and Australia and New Zealand; it is listed by its INS number 270 or as E number E270. Lactic acid is used as a food preservative, curing agent, and flavoring agent. It is an ingredient in processed foods and is used as a decontaminant during meat processing. Lactic acid is produced commercially by fermentation of carbohydrates such as glucose, sucrose, or lactose, or by chemical synthesis. Carbohydrate sources include corn, beets, and cane sugar.
+
+Lactic acid has historically been used to assist with the erasure of inks from official papers to be modified during forgery.
+
+Lactic acid is used in some liquid cleaners as a descaling agent  for removing hard water deposits such as calcium carbonate. It is also used as an antibacterial agent in some hard surface liquid cleaners.
+
+Lactic acid levels are a blood test in medicine. Elevated lactate is not universally defined but usually has a cut-off between 2.0 and 2.5 mmol/L, whereas highly elevated lactate is usually defined as greater than 4 mmol/L. Lactic acidosis is often used clinically to describe elevated lactate but should be reserved for instances in which there is also acidosis with pH of less than 7.35. Elevated lactate is most commonly due to tissue hypoxia or hypoperfusion, for instance due to shock, the post-cardiac arrest state, or regional ischemia. However, other causes and contributing factors to elevated lactate also exist. Elevated lactate can additionally occur due to heavy exercise and hence can occur without pathology.
+
+Blood tests for lactate are performed to determine the status of the acid base homeostasis in the body. Blood sampling for this purpose is often arterial (even if it is more difficult than venipuncture), because lactate levels differ substantially between arterial and venous, and the arterial level is more representative for this purpose.
+
+During childbirth, lactate levels in the fetus can be quantified by fetal scalp blood testing.
+
+Category: Salts of lactic acid
+Category:Lactate esters
+Acids in wine
+Alanine cycle
+Biodegradable plastic
+Dental caries
+MCT1, a lactate transporter
+Thiolactic acid
+Methacrylic acid
+
+Corn Plastic to the Rescue Archived 21 November 2013 at the Wayback Machine
+Lactic Acid: Information and Resources
+Lactic Acid Is Not Muscles' Foe, It's Fuel
+Fitzgerald M (26 January 2010). "The Lactic Acid Myths". Competitor Running. Archived from the original on 25 August 2018.

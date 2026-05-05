@@ -1,0 +1,3 @@
+# Metabolic equivalent of task (MET) values for shadowboxing
+
+Metabolic equivalents (METs) for various activities at different intensity levels can be found on the Compendium of Physical Activities website , but it doesn't list any for shadowboxing, noting only that boxing a punching bag is 5.5 METs. So shadowboxing should be somewhere between 1 and 5.5 METs. This website lists it as 7 METs, but it's unclear to me where that value comes from (it's not in the 2nd and 3rd sources listed at the bottom of the page, and I don't have access to the 1st). What would be a reasonable estimate?

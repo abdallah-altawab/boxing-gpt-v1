@@ -1,0 +1,50 @@
+# My Boxing Timer I 3D Printed, Wired and Coded Because I Didn’t want to Spend $150+
+
+
+---
+I use a free app on my phone cause I didn’t want to spend whatever you spent on this.
+
+---
+Was maybe $10 if you buy everything new? I had it all laying around though and it’s my second hobby. Not trying to tell others to as well!
+
+---
+I totally get the motivation behind it... I like to build as a hobby too, and I love what you’ve done!
+
+The parts are basically free, and the speaker is probably better than the one on an older smartphone, so there’s definitely value to it over a free app! I’ve got the parts to this build in my workshop, so I’m going to try and replicate your work :)
+Thanks for sharing your project!
+
+---
++the price of the printer if you don't have one, that's the most expensive part !
+
+---
+Exactly, you also get that feeling of accomplishment that is almost priceless, great job!
+
+---
+For those interested it runs off an Atmega328 Microcontroller, and has settings for rest time and round time(the 2 switches other than power). Speakers are a bit quite so that’s my next improvement.
+
+---
+That is awesome.! Can you pause it during a round?
+
+---
+Not on this version but it’s something super simple I plan on adding on the next(some buddies want one)
+
+---
+Simple and effective. Hit me up man. Those timers are expensive I wanna gift this to my coach for the gym.
+
+---
+I plan on making a a gym version as well with much larger speakers and some remote functionality.
+
+---
+That is awesome.! Can you pause it during a round?
+
+---
+Awww Ye, and we use it to save a few dollars, let’s go.
+
+---
+That is a Badass and even better you built and coded it well done
+
+---
+Ty! It’s kinda sad that they are charging $150+ for basically a plastic box and microcontroller.
+
+---
+I’ll send ya one for cost , it’ll help me prototype!

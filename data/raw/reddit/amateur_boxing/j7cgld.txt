@@ -1,0 +1,88 @@
+# How To Punch Harder: A Scientific Look Into A Powerful Punch
+
+
+---
+Boxers who have fought Mike Tyson have said the same thing. He had strength and speed, but it was his timing that was crucial to his knockout ability.
+
+---
+Mainly because MMA fighters fight at kicking range
+
+---
+Not all of them, really, but Conor was certainly able to enforce it in many of his fights.
+
+---
+Having watched most of Conor’s fights, no he doesn’t just catch people coming in. He is a counter puncher but you can make that case for any boxer as well. He has plenty of power when people aren’t lunging in as well. You might be thinking of his Aldo knockout which was a guy lunging in but most of his other KOs are just great distance measurement and landing at peak extension.
+
+---
+I remember in an interview once Conor said timing beats speed and precision beats power. I can't remember what interview exactly. Also Israel adesanya mentioned after he beat Paulo Costa that he doesn't need all that power because he has precision. They obviously do have strength, but it makes me think about the term knockout 'artist'. They don't always rely on brute force. You can ko people with brute force, but smaller looking guys can also knock people out. There's definitely alot to timing and precision.
+
+---
+Conors power came from fighting much smaller men.
+
+---
+He beat the shit out of Poirier and Cerrone who are both taller than him.
+
+---
+Yup... But remember, MMA is a lot different.
+
+
+It was obviously that Connor would lost against Floyd un Boxing... But in MMA Floyd would get murdered.
+
+---
+The conclusions are solid (if not common sense), but the physics used in analysis like this always drive me crazy. 
+
+Primarily:
+
+Force = mass x acceleration 
+
+Acceleration doesn't **directly** have anything to do with impact force.  Think of it this way, would you prefer to get hit by a car going 60mph constant (0 acceleration) or a car that is going 5mph but rapidly accelerating?  The 60mph car is going to hurt a lot more because it has much more impact force.  Acceleration matters in that it is required increase velocity, but at the instant of impact all we care about is the velocity of the object and not the acceleration.  Heck, a bullet is decelerating (slowing down/negative acceleration) from the moment it is fired!
+
+The second are some just flat out false statements, like "Velocity and force are inversely related where-as velocity increases, force decreases. As force increases velocity decreases."  That is 100% false and non sensical if you think about it.  A car travelling at 100mph somehow has less "force" than a car travelling at 1mph?  Does a car not moving (0 velocity) somehow have infinite force?  
+
+The actual physics are this:  What you are really want is the integral of F = m x a which is kenetic energy.  
+
+Kenetic Energy = 1/2 x mass x velocity x velocity
+
+Doing a little math that I will leave out, impact force is actually:
+
+Impact Force = Kinetic Energy / distance
+
+Here, distance is how far the moving object (your fist) travelled while impacting the object it hit.
+
+When you start to apply that to various situations, things start to make a lot of sense.  
+
+Why does punching a punching bag really hard not hurt my hand?  Because the punching bag gives (distance in the above equation is not zero) and thefore the impact force is smaller (because we divided by distance.  
+
+Why does punching a brick wall hurt my hand?  The brick wall doesn't give (distance is essentially 0) so the impact force is very large.  
+
+Why does a "less elastic collision" as discussed in the article matter?  Because the less elastic the colission, the shorter the distance over which the energy is applied = higher impact force.
+
+---
+Him and his fancy words make my punch drunk brain feel inferior.
+
+---
+Thanks for your input I appreciate it. I will be the first to admit my physics is on a basic level. 
+
+Regarding the inverse relationship between force and velocity it is not a false statement when talking about muscular contraction. The slower the movement, the more force that can be produced as many actin/myosin crossbridges can be formed.
+
+Yea the conclusions are common sense but often common sense isn't so common :)
+
+---
+The important part to take from the parent comment is that, kinetic energy is proportional to: v\^2\*m. 
+
+This is the key reason why it is important to land the punch at its full extension, because that is when the fist reaches maximum velocity. Acceleration is largest at the beginning of a punch because that is when most force is exerted, but impact is largest when fist reaches highest velocity at full extension (at that point acceleration is irrelevant). 
+
+This also explains other intuitive concepts, like why you shouldn't smother your punches. It is also another reason why a short/quicker shot (i.e. a jab) is going to be less powerful than a longer/slower shot (i.e. a cross) since there is more time in cross for fist to reach much higher velocity before an impact.
+
+---
+>The slower the movement, the more force that can be produced as many actin/myosin crossbridges can be formed.
+
+If we wanted to discuss that, we should frame it appropriately.  A more informative statement would be "due to the chemisty/biomechanics of muscles, the faster a muscle is contracted the less force it is able to produce".  That sounds a lot better than saying making a blanket claim on physics without ever mentioning the force-velocity relationship of muscles.  
+
+It also has little bearing on striking because the force we need is that required to accelerate our fist which isn't all that heavy.  Given we saw velocity matters much more than mass from the correct equation for impact force, we want to reach as high of a velocity as possible.
+
+---
+Haha, every time I see the often touted: F=m\*a for punching power/impact it triggers me too. I have probably written some variation of your comment at least few dozen times already in this sub :D :D
+
+---
+But isnt the acceleration being referred to the deceleration from x speed to 0 (because it was stopped by what you hit, or at the very least slowed down). So acceleration pre impct doesnt have anything to do yes. But acceleration is technically directly related to impace force.

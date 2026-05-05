@@ -1,0 +1,213 @@
+# Cardio for Boxing: The Science, Strategies, and Secrets of Elite Endurance
+
+As a sports science graduate, former strength and conditioning coach, and competitive Olympic weightlifter, I'm well-versed in muscle building and strength training, but cardio was never my forte. In recent years, I've delved into combat sports, most recently boxing, and realized the paramount importance of endurance in this sport. My journey to improve endurance, though, wasn't straightforward due to long forgotten college classes and scarce reliable information online adapted to boxing - until I discovered the book titled **Ultimate MMA Conditioning** by Joel Jamieson.
+
+Ultimate MMA Conditioning is a book I would very strongly recommend to anyone interested in the science of endurance for fighting sports. Backed by a renowned coach's years of experience and modern sports science, it offers reliable knowledge and practical methods to boost your conditioning. Using these strategies, I've significantly improved my performance. Inspired by the recent posts in this sub asking about cardio, I decided to share my insights on cardio as it relates to boxing. This post will aim to clarify the basics, drawing from my former academic training, Joel Jamieson’s book (Ultimate MMA conditioning) and my own experience. There is the breakdown of this post:
+
+* Understanding the energy systems required for boxing
+* Improving general endurance
+* Improving power
+* Improving power-endurance
+* 27 weeks generic training template
+
+Hopefully, you will find something useful out of this post!
+
+&#x200B;
+
+# Understanding the energy systems required for boxing
+
+&#x200B;
+
+**Aerobic system**
+
+The aerobic system uses oxygen to create energy during prolonged physical activity. It directly influences VO2 max, which is the maximum volume of oxygen an individual can utilize during intense exercise. As the efficiency of the aerobic system increases, so does the VO2 max, indicating higher aerobic fitness.
+
+Aerobic system can be broken into 2 parts : aerobic power and aerobic endurance. While interconnected, they serve distinct aspects of fitness. Aerobic power is the maximum rate of oxygen consumption during exercise, reflecting the peak capacity of the aerobic system. Think of a maximal effort sustain for **2 to 6 minutes** like a boxing a fight. That would be your aerobic power. In contrast, aerobic endurance is the sustained ability to maintain a specific intensity or pace for a long time, representing how effectively the body can produce and maintain energy via the aerobic system. Think of a marathon runner.
+
+For boxers, aerobic power is vital. It not only supports their ability to sustain high volume, but also enhances their recovery rate between rounds.
+
+**Anaerobic system**
+
+The anaerobic system, also known as the anaerobic lactic energy system, is one of the body's ways of producing high-intensity efforts lasting from approximately **30 seconds to about 2 minutes**. During this type of exercise, when the oxygen supply can't meet the body's energy demands, the body begins to break down glycogen, producing lactic acid as a by-product.
+
+Depending on the individual's fitness level and the intensity of the exercise, maximal intensity cause exhaustion for an effort ranging anywhere from 1 to 2 minutes.
+
+The aerobic system uses oxygen to convert the lactate back into usable energy. Therefore, an efficient aerobic system not only enhances performance but also promotes faster recovery from high-intensity, lactic-acid-inducing effort.
+
+Depending on your boxing federation, amateur fights follow a 3x2minutes or 3x3minutes structure. Obviously, a boxer can not rely on the anaerobic system unless he gets the knockout within the first 2 minutes. Having a good aerobic system is crucial to not gassed out at the beginning of a fight.
+
+**Anaerobic threshold**
+
+The anaerobic threshold, also known as the lactate threshold, is a crucial concept in understanding physical performance. It is the exercise intensity at which lactic acid starts to accumulate in the blood as it's produced faster than it can be removed. When working at this threshold, the body can sustain effort for an extended period, typically an hour or more, using the aerobic system. Above this threshold, however, the anaerobic system kicks in, leading to exponentially quicker fatigue.
+
+This threshold is highly trainable, and with regular dedicated workouts at the right intensity, an individual can effectively push the anaerobic threshold higher. The benefit is that the later the anaerobic system is required, the longer the individual can maintain a high level of intensity without tapping into anaerobic reserves. This leads to improved performance and stamina.
+
+For many people (probably every beginner), just basic shadowboxing, involving footwork and light punches, exceed the anaerobic threshold. Therefore, for most of us, simply being in the ring necessitates dipping into anaerobic reserves. Many of us gassed out in sparring not doing much. But with an improved anaerobic threshold, a boxer could dance around an opponent without breaking a sweat, sustaining a higher work volume without relying on their limited anaerobic reserves.
+
+An untrained person's anaerobic threshold is typically around 50% of their VO2max, whereas a trained individual can push this up to around 80% of their VO2max. The anaerobic threshold is independent of an individual’s aerobic performance. I mean, some people have high VO2max and a low anaerobic threshold, others have low VO2max and high anaerobic threshold. Once an individual surpasses their anaerobic threshold, their ability to maintain that intensity rapidly declines. It means they're relying on the anaerobic system, which, as previously mentioned, is limited in duration, typically about 2 minutes at full intensity for most individuals. Thus, a high anaerobic threshold can be a game-changer in boxing. Watch this video for furthers details : [https://www.youtube.com/watch?v=doxFSOSHk-0](https://www.youtube.com/watch?v=doxFSOSHk-0)
+
+**Alactic system**
+
+The alactic system is the third and last energy system. It’s the body's powerhouse for extreme high-intensity, short-duration activities, typically lasting around 10 seconds or less. This system uses stored ATP (adenosine triphosphate) and CP (creatine phosphate) in the muscles to generate energy quickly, without the need for oxygen. However, it has a very limited capacity and depletes rapidly, causing it to burn out in just a few seconds. Examples of activities that primarily use this energy system include Olympic weightlifting or throwing the most powerful boxing combinations in pursuit of a knockout (KO).
+
+However, for hobbyists and amateur boxers, the alactic system should not be a primary focus, as landing a KO isn't usually the objective. Instead, we should prioritize developing the aerobic and anaerobic lactic systems, which support prolonged activity and better endurance.
+
+**Putting it all together and improving your energy systems**
+
+For boxers, the aerobic and anaerobic systems are paramount to their performance. The aerobic system, particularly aerobic power, allows boxers to maintain a high output of power, recover quickly between rounds, and endure the duration of the fight. On the other hand, the anaerobic system provides the necessary energy for short, intense bursts of activity, like throwing powerful combinations. A key aspect to improve is the anaerobic threshold - the higher this threshold, the longer a boxer can maintain high-intensity work without fatiguing.
+
+However, it's important to note that unless you're a beginner, it isn't advisable to train all these energy systems simultaneously. Each system requires specialized training, with adequate volume and intensity to stimulate adaptation. Trying to fit training for all systems into one schedule can lead to overtraining, risk of injury, or burnout. Thus, training plans should be well-structured and periodized to ensure balanced development, maximizing the effectiveness of workouts while promoting adequate recovery.
+
+Before we delve deeper in how to do it, I want to stress a couple of things:
+
+1. The goal is always to provide the minimal volume and intensity to stimulate physiological adaptation. No need to overdo any of the intervals. Trust the system, stick to it and be consistent. It works.
+2. Train in blocks of 4 to 12 weeks. Play with volume and intensity throughout a block. Ideally, training volume should move as a bell (medium volume at first, high volume in the middle, low volume at the end of a block) and intensity (or duration of high effort intervals) should increase throughout the block (low at first, high at the end).
+3. Most intervals require active rest between reps or sets. Active rest is any activity, such as shadowboxing, perform at low intensity (eg : 130-140 bpm) that allow you to recover.
+4. General endurance works well with long block (eg : 8-12 weeks) but don’t overextend your power sessions.
+5. Rest weeks are very important. I like to insert a rest week every 4 or 8 weeks. Rest week should be low volume and low intensity.
+6. Always listen to your body. If you’re not used to training, these intervals could hurt you. There is no shame in skipping a training or a week if you feel like an injury is developing.
+7. These cardio sessions should be done on top of your regular boxing sessions. Either at the beginning, during, after or in between boxing sessions. Drilling with your coach, having feedbacks and sparring with your partners is obviously critical for improving your boxing skills.
+8. Most methods described below works with any cardio exercises such as jogging, swimming, biking, jumping rope etc. However, I always prefer to do it with shadowboxing or heavy bag.
+9. I like to keep it simple and cycle through 8 weeks blocks of conditioning. 8 weeks to improve general endurance, 1 week rest, 8 weeks to improve power, 1 week rest, 8 weeks to improve power endurance, 1 week rest, repeat.
+
+# Improving your general endurance
+
+Improving general endurance can be achieved through several methods, but I'll discuss two methods that I've found particularly straightforward and effective. However, for a more extensive array of techniques and tips to diversify your training, I recommend diving into the book I've mentioned earlier.
+
+One crucial tool I suggest investing in is a heart rate monitor. These are generally affordable and play a vital role in ensuring you're training at the appropriate intensity. By monitoring your heart rate during exercise, you can adjust your effort to fall within the desired training zone, optimizing each workout's efficiency and aligning it with your endurance goals.
+
+**Aerobic endurance**
+
+One of the key aspects of improving general endurance is increasing your body's ability to transport oxygen to your muscles. This is primarily achieved by enhancing your cardiac output - the volume of blood your heart pumps. As you improve your cardiac output, you'll notice a decrease in your resting heart rate and a lowered bpm (beats per minute) at a given workload, improving your overall endurance.
+
+A simple training method involves maintaining a constant heart rate of 120-150 bpm over extended periods. Generally, the younger you are, the closer to 150 bpm you should aim for. However, it's important not to exceed this range as it might not provide the desired stimulus. To improve your cardiac output, aim for 1-3 training sessions per week. For optimal results, three sessions per week is ideal, while one session can help maintain your current level.
+
+These training sessions should last between 45 to 90 minutes, starting with 45-minute sessions and gradually extending the duration to 90 minutes over weeks. This slow and steady increase will help your body adapt to the increasing workload without overstraining. For example :
+
+* Week 1 : 3 sessions of 45 minutes at 145 bpm
+* Week 2 : 3 session of 60 minutes at 145 bpm
+* Week 3 : 3 session of 75 minutes at 145 bpm
+* Week 4 : 3 sessions of 90 minutes at 145 bpm
+
+Any low intensity steady exercise will do the trick. As long as you keep your HR in the 120-150 bpm, you aerobic performance will improve.
+
+I personally recommend, low-intensity boxing drills such as shadow boxing or working on the heavy bag at a low pace. Prioritize footwork and head movement, throw light punches with perfect technique, and focus on being slick and light on your feet. I've found that shadow boxing at low intensity for an hour or more is not only great for building endurance, but it also helps you relax and refine your movements' efficiency.
+
+**Anaerobic threshold training**
+
+Improving your anaerobic threshold necessitates training at an intensity that sits precisely on this threshold for extended periods, thus encouraging your body to adapt and progressively move the threshold further. However, identifying the exact location of this threshold can be challenging without lab testing, which involves blood samples.
+
+An alternative home method involves performing a maximal effort test at a steady pace for about 15 minutes, then noting your pace or heart rate. This method is not as precise as lab testing, but it provides a reasonable estimate. For instance, through my personal testing with shadowboxing or heavy bag workouts, I found that I can comfortably maintain a heart rate of 150-155 bpm for extended periods. Beyond 155 bpm, I experience fatigue and find myself slowing the pace to take a breath, so I conclude that my anaerobic threshold lies around 155 bpm.
+
+Training the anaerobic threshold effectively requires interval training. Carry out 2 to 5 reps per session, 1-2 sessions per week, with each rep executed at a constant pace or heart rate that hovers around your threshold (+/- 5 bpm). For me, this is within the 150-160 bpm range when shadowboxing.
+
+Each rep should last between 3 to 10 minutes. Start with a greater number of shorter-duration reps (for example, 5 reps of 3 minutes each) and gradually increase the duration of each rep while decreasing the number of reps over several weeks (for instance, 2 reps of 10 minutes each after 4 weeks). This progressive adaptation will help push your anaerobic threshold further, improving your endurance. For example :
+
+* Week 1 : 2 sessions, 3 reps of 3 minutes
+* Week 2 : 2 sessions, 4 reps of 5 minutes
+* Week 3 : 2 sessions, 4 reps of 8 minutes
+* Week 4 : 2 sessions, 5 reps of 10 minutes
+
+Any cardio exercise such as jogging (road work), biking, swimming, jumping rope etc works. Again, I recommend doing boxing drills. Knowing what pace you can hold non-stop and when exactly you start tapping into your reserves is a valuable tool IMO.
+
+&#x200B;
+
+# Improving your power
+
+&#x200B;
+
+Enhancing general endurance essentially equates to increasing your "gas tank," which, while important, isn't the only factor to consider for a fight. Alongside a larger gas tank, you also need a more efficient "engine" to effectively utilize that fuel. If you have a large tank but your engine burn through it like a Hummer, you won’t go far. From personal experience, I've noticed that endurance training improves my recovery between rounds and reduces overall fatigue, but when the pace intensifies, I tire quickly.
+
+Therefore, it's crucial to also focus on improving your ability to efficiently produce power and recover between high-effort bouts. This can be achieved through interval training, a method that effectively stimulates these adaptations. I've found two particular interval training methods incredibly beneficial for this purpose, which I'll detail next. However, I recommend reading Joel Jamieson’s book for more methods.
+
+**Explosive repeat**
+
+The purpose of this interval is to work the ATP-CP (alactic) system. Notice it is the only interval that works very high, very short burst. The reason is because it's not as useful in boxing so dont overdo it.
+
+Many exercises can fit with this method. Compounds lifts such as squat, deadlift, kettlebell swings, etc. works. Shadowboxing, heavy and mitt drills work as well. However, since the goal is to go full power and speed, 100% effort, for very short and very explosive burst, if you decide to go with boxing drills instead of weightlifting, I recommend practicing specific drills repetitively instead of going *freestyle*. The intervals are so short and so intense, you have no time for thinking.
+
+Below, I recommend doing 1-3 drills or exercise. I mean that if you go for boxing drills such as repeating ''1-2-3-pivot', 1-2-3-pivot, 1-2-3-pivot, etc.'' with minimal break in between your combo. That would be 1 drill. If your program have you do 2 drills or exercises, ''1-2-3-pivot'' could be your first drill and ''Stepin-1-stepback-stepin-1-2-stepback'' could be your second drill.
+
+Perform 1-2 sessions per week. Each session is 1-3 drills or exercise for 1-2 sets, 6-10 reps per set and 8-14s maximal effort per reps. Do active rest for 30-60s between reps and 8-10 minutes per sets and exercises. Aim for a 120-150 bpm heartrate when resting (eg : light shadow boxing). Increase the effort duration through the weeks (from 8 seconds to 14 seconds) and decrease the active rest between burst through the weeks (from 60s the first week to 30 seconds the fourth). For example :
+
+* Week 1 : 1 drill, 2 sets, 10 reps of 8 seconds maximal effort. 60 seconds active rest between reps. 8 minutes active rest between sets.
+* Week 2 : 2 drills, 2 sets, 8 reps of 10 seconds maximal effort. 40 seconds active rest between reps. 8 minutes between sets.
+* Week 3 : 2 drills, 2 sets, 8 reps of 12 seconds maximal effort. 40 seconds active rest between reps. 8 minutes active rest between sets.
+* Week 4 : 3 drills, 1 set, 6 reps of 14 seconds maximal effort. 30 seconds active rest between reps. 8 minutes active rest between sets.
+
+**Lactic power intervals**
+
+Similar to explosive repeat, lactic power intervals require 100% effort for short burst and active recovery between reps. High effort burst last longer and will stimulate the anaerobic system.
+
+Perform 1-2 sessions per week. Each session is 2-4 sets, 3 reps per sets. Maximal effort for 20-40 seconds followed by 1-3 minutes of active rest (until your HR is back to 110-130 bpm). Rest actively for 8-15 minutes between sets. Increase the duration of effort through the weeks. Following resting time is extremely important. You need to give time to your body to replenish your reserves. If you rush through the reps and don’t rest enough, intensity will decrease, and you will not work your anaerobic system as much. Example of intervals:
+
+* Week 1 : 4 sets of 3 reps. 20 seconds maximal effort per reps. 1-3 minutes active rest between reps and 8 minutes active rest between sets.
+* Week 2 : 3 sets of 3 reps. 30 seconds maximal effort per reps. 1-3 minutes active rest between reps and 10 minutes active rest between sets.
+* Week 3 : 3 sets of 3 reps. 35 seconds maximal effort per reps. 1-3 minutes active rest between reps and 12 minutes active rest between sets.
+* Week 4 : 2 sets of 3 reps. 40 seconds maximal effort per reps. 1-3 minutes active rest between reps and 15 minutes active rest between sets.
+
+Again, many exercises can fit this kind of interval. Once again, I prefer boxing drills.
+
+# Improving your power endurance
+
+After having trained endurance and power separately, it is time to train both together. The goal with the following methods is to deliver as much power for as long as possible. These intervals will hurt! Don’t over do it!
+
+**Cardiac power intervals**
+
+The cardiac power intervals require you to simply do maximum intensity intervals for 60-120 seconds with fairly long rest intervals. You need to keep your HR as high as possible in each rep. Aim for at least 90% of your maximum heart rate (Rule of thumb, maximum heart rate is 222 minus your age).
+
+Perform 1-2 sessions per week, 4-12 reps per session, 60-120 seconds per reps, 2-5 minutes active rest between reps. For example:
+
+* Week 1 : 12 reps of 60 seconds, 2 minutes active rest between reps
+* Week 2 : 10 reps of 80 seconds, 3 minutes active rest between reps
+* Week 3 : 8 reps of 100 seconds, 4 minutes active rest between reps
+* Week 4 : 6 reps of 120 seconds, 5 minutes active rest between reps
+
+If your boxing federation have you fight in 3x3 structure, you could bump the duration of reps a little bit, for example : 80/100/120/140 seconds reps through the weeks.
+
+**Lactic capacity intervals**
+
+This method is similar to the previous one, but the focus is increasing how long you can maintain lactic power with incomplete rest. This one mimics a fight the most. This will hurt! No need to do this for more than 4 weeks and don’t do it too often. This is very stressful on the body and progress will quickly reach a plateau.
+
+Perform 1-2 sessions per week, 2-4 sets of 3 reps, 90-120 seconds of maximal effort per reps and have incomplete rest between reps. 8-15 minutes rest between sets. For example :
+
+* Week 1 : 4 sets of 3 reps, maximum effort for 90 seconds per reps, 2 minutes full rest between reps, 8 minutes active rest between sets.
+* Week 2 : 3 sets of 3 reps, maximum effort for 100 seconds per reps, 1.5 minutes full rest between reps, 10 minutes active rest between sets.
+* Week 3: 3 sets of 3 reps, maximum effort for 110 seconds per reps, 1.5 minutes full rest between reps, 12 minutes active rest between sets.
+* Week 4 : 2 sets of 3 reps, maximum effort for 120 seconds per reps, 1 minutes full rest between reps, 15 minutes active rest between sets.
+
+# 27 weeks generic training template
+
+Here is a generic 27 weeks training template to help put it all together. Again, I cant stress it enough, you should read Ultimate MMA conditioning by Joel Jamieson if you’re serious about this.
+
+Adapt the template according to your goals!
+
+    Week 1 (Focus : Aerobic endurance) : 3 sessions of 45 minutes at 145 bpm 
+    Week 2 (Focus : Aerobic endurance): 3 session of 60 minutes at 145 bpm 
+    Week 3 (Focus : Aerobic endurance)  : 3 session of 75 minutes at 145 bpm 
+    Week 4 (Focus : Aerobic endurance) : 3 sessions of 90 minutes at 145 bpm 
+    Week 5 (Focus : Anaerobic threshold) : 2 sessions, 5 reps of 3 minutes. 
+    Week 6 (Focus : Anaerobic threshold) : 2 sessions, 4 reps of 5 minutes 
+    Week 7 (Focus : Anaerobic threshold) : 2 sessions, 3 reps of 8 minutes 
+    Week 8 (Focus : Anaerobic threshold) : 2 sessions, 2 reps of 10 minutes 
+    Week 9 : rest 
+    Week 10 (Focus : Explosive repeat)  : 2 sessions, 1 drill, 2 sets, 10 reps of 8 seconds maximal effort. 60 seconds active rest between reps. 8 minutes active rest between sets. 
+    Week 11 (Focus : Explosive repeat) : 2 sessions, 2 drills, 2 sets, 8 reps of 10 seconds maximal effort. 40 seconds active rest between reps. 8 minutes between sets. 
+    Week 12 (Focus : Explosive repeat) : 2 sessions, 2 drills, 2 sets, 8 reps of 12 seconds maximal effort. 40 seconds active rest between reps. 8 minutes active rest between sets. 
+    Week 13 (Focus : Explosive repeat) : 2 sessions, 3 drills, 1 set, 6 reps of 14 seconds maximal effort. 30 seconds active rest between reps. 8 minutes active rest between sets. 
+    Week 14 (Focus : Lactic power) : 2 sessions, 4 sets of 3 reps. 20 seconds maximal effort per reps. 1-3 minutes active rest between reps and 8 minutes active rest between sets. 
+    Week 15 (Focus : Lactic power) : 2 sessions, 3 sets of 3 reps. 30 seconds maximal effort per reps. 1-3 minutes active rest between reps and 10 minutes active rest between sets. 
+    Week 16 (Focus : Lactic power) : 2 sessions, 3 sets of 3 reps. 35 seconds maximal effort per reps. 1-3 minutes active rest between reps and 12 minutes active rest between sets. 
+    Week 17 (Focus : Lactic power) : 2 sessions, 2 sets of 3 reps. 40 seconds maximal effort per reps. 1-3 minutes active rest between reps and 15 minutes active rest between sets. 
+    Week 18 : rest 
+    Week 19 (Focus : Cardiac power) : 2 sessions, 12 reps of 60 seconds, 2 minutes active rest between reps 
+    Week 20 (Focus : Cardiac power) : 2 sessions, 10 reps of 80 seconds, 3 minutes active rest between reps 
+    Week 21 (Focus : Cardiac power) : 2 sessions, 8 reps of 100 seconds, 4 minutes active rest between reps 
+    Week 22 (Focus : Cardiac power) : 2 sessions, 6 reps of 120 seconds, 5 minutes active rest between reps 
+    Week 23 (Focus : Lactic capacity) : 2 sessions, 4 sets of 3 reps, maximum effort for 90 seconds per reps, 2 minutes full rest between reps, 8 minutes active rest between sets. 
+    Week 24 (Focus : Lactic capacity): 2 sessions, 3 sets of 3 reps, maximum effort for 100 seconds per reps, 1.5 minutes full rest between reps, 10 minutes active rest between sets. 
+    Week 25 (Focus : Lactic capacity): 2 sessions, 3 sets of 3 reps, maximum effort for 110 seconds per reps, 1.5 minutes full rest between reps, 12 minutes active rest between sets. 
+    Week 26 (Focus : Lactic capacity): 2 sessions, 2 sets of 3 reps, maximum effort for 120 seconds per reps, 1 minutes full rest between reps, 15 minutes active rest between sets. 
+    Week 27 : Rest
+
+&#x200B;

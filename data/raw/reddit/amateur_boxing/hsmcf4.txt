@@ -1,0 +1,105 @@
+# I’m Dr Oliver Barley, I have a PhD in exercise physiology and specialise in combat sports, AMA.
+
+EDIT: Okay everyone, I am out! Thanks for the great questions, I had a blast! Hopefully this is helpful to a lot of you! 
+
+Hey everyone.
+
+My name is Dr Oliver Barley and I work as a teaching and research academic at Edith Cowan University in Western Australia. My research is in the area of exercise physiology and combat sports. Much of my research has focused on weight cutting, including a study where we found people could lose weight much easier if they were heat acclimated! I also do work in combat sports high-performance and training. Recently I have also been doing a lot of work in the area of hydration testing too.
+
+Feel free to ask any questions and I will do my best to answer!
+
+My staff profile: [https://www.ecu.edu.au/schools/medical-and-health-sciences/our-staff/profiles/lecturers/dr-oliver-barley](https://www.ecu.edu.au/schools/medical-and-health-sciences/our-staff/profiles/lecturers/dr-oliver-barley)
+
+Proof: [https://imgur.com/a/z895eME](https://imgur.com/a/z895eME)
+
+Some of my scientific publications:
+
+Weight Loss Strategies in Combat Sports and Concerning Habits in Mixed Martial Arts - [https://journals.humankinetics.com/view/journals/ijspp/13/7/article-p933.xml](https://journals.humankinetics.com/view/journals/ijspp/13/7/article-p933.xml)
+
+Repeat Effort Performance Is Reduced 24 Hours After Acute Dehydration in Mixed Martial Arts Athletes - [https://journals.lww.com/nsca-jscr/Fulltext/2018/09000/Repeat\_Effort\_Performance\_Is\_Reduced\_24\_Hours.17.aspx](https://journals.lww.com/nsca-jscr/Fulltext/2018/09000/Repeat_Effort_Performance_Is_Reduced_24_Hours.17.aspx)
+
+Acute dehydration impairs endurance without modulating neuromuscular function (NO PAYWALL) - [https://www.frontiersin.org/articles/10.3389/fphys.2018.01562/full](https://www.frontiersin.org/articles/10.3389/fphys.2018.01562/full)
+
+The Influence of Heat Acclimation and Hypohydration on Post-Weight-Loss Exercise Performance - [https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p213.xml](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p213.xml)
+
+Considerations when assessing endurance in combat sport athletes (NO PAYWALL) - [https://www.frontiersin.org/articles/10.3389/fphys.2019.00205/full](https://www.frontiersin.org/articles/10.3389/fphys.2019.00205/full)
+
+The current state of weight-cutting in combat sports (NO PAYWALL) - [https://www.mdpi.com/2075-4663/7/5/123/htm](https://www.mdpi.com/2075-4663/7/5/123/htm)
+
+I know some of these are behind paywalls but send an e-mail to [o.barley@ecu.edu.au](mailto:o.barley@ecu.edu.au) and I will flick you a sneaky copy!
+
+I'll drift in an out for the next 24 hours to answer any questions!
+
+---
+You said you’ve worked on hydration testing. Are you hopeful that hydration testing is going to be something that we begin to see in bigger promotions besides OneFC?
+
+---
+Oddly I am not. A lot of the work I have done in this area has lead me to be very critical of hydration testing in the case of weight cutting. I actually have a big review paper on this topic about to get accepted at a journal so this is fresh in my mind.
+
+These tests were not designed for individuals who undergo severe dehydration and then rapid rehydration. In terms of urinary testing, it is wildly inaccurate in these situations due to how the kidneys actually filter fluid (look at my response to Observante for more details on this). Even blood hydration is actually very aggressively defended and thus may not present dehydration even when a person has lost a fair amount of fluid.
+
+The main question is about the location of fluid. If you sweat out 2kg and then skull 2 litres of water are you instantly rehydrated even though the same total amount of fluid is in your body? No. That fluid needs to get into your cells. When we assess urine, that is filtered from the blood, which is filtered from the fluid around the cells which is then filtered by the cellular fluid (so 4 levels removed). Blood only gains 1 level in that situation. Human hydration is really complicated and there is no "complete" assessment. Perhaps we could mix a bunch of different measures and interpret them critically but in my experience, this isn't what these organisations are trying to do.
+
+That being said, I am really happy that people are trying to address the problem of weight cutting, I just think we need to be evidence based in our approach!
+
+---
+Can you talk about getting better cardio? In addition to regular training, I run 6 days a week (sprints, long distance, and hills). My cardio in sparring has increased immensely, but when it’s time for the event, I still get exhausted after 1 round. 
+Is it adrenaline? If so, what can I do? If it isnt, what can I do?
+
+---
+The age old question of "I wanna put work on dudes! How can I do it?". So I will try to condense the key points of the undergrad units I teach in this area :P
+
+It's all about developing different kinds of fitness as combat sports are very diverse. You need to be used to high intensity for when you're throwing down, you need to be used to medium intensity for when you are moving around and low intensity when you get those short breaks between exchanges. It sounds like you have a good mix of running as it is, and I usually recommend running to fighters. In my experience the ideal programming as around the 10k, its not so long that the intensities never really match the fight, nor so short that you aren't used to the volume. The Nike Running app is free and can design some pretty good 10k running programs which blend all the different components in, 3-4 runs a week should be easily enough to get mad cardio (personally I do prefer the Garmin app, but you need a watch for that). It's also nice to wear a heart rate monitor so you can confirm you are actually spending a decent amount of time in the 4th and 5th heart rate zone as they are key for fighters.
+
+Another issue may revolve around strength. Contrary to what a lot of people think, building strength can actually help endurance! The reason for that is it can make it so you are working at a lower percent of your maximal strength so the work become relatively easier for your musculature. In fact, the conditioning I get fighters to do usually involves 3 runs a week and 3 resistance training sessions, all the rest is made up in fight training.
+
+Regarding you gassing for competition, that probably is related to adrenaline and general excitement. Your body can chew up its storage glucose real quick in these situations. The main think is to keep working your whole body conditioning as above and keep competing. The more you compete, the more you get used to the sensation and find you can manage it much better :)
+
+---
+Basic question but it has to be common for people to develop muscle imbalances while boxing, I certainly have, the right side of my back has grown very tight and the left side of my neck too. Do you have any particular advice for dealing with this?
+
+---
+Oh man this is such a serious problem in combat sports! This isn't quite my field of field of research but I do work alongside people in my department who specialise in this so I will try to relay what I've learnt from them.       
+
+The problem stems from imbalance of use. So I am a kickboxer and I spam jabs, body left kicks and leg kicks with the right. As such my total volume on those limbs is going to be all wonky. One key way to tackle this is with a smart resistance training program, for the most part you should be doing as many exercises on both sides of a muscle action.      
+
+The way I have tackled this personally is by following the research that has used "push" and "pull" days. My first resistance training session of the week is push (Squats, shoulder press, lunges & bench press), the next session is pull (hang pulls, lat pulldowns, straight leg deadlifts and bent over rows), and then my third and final resistance training session is the combo day (step ups, snatch-grip shrugs, calf press and roman chair). This creates a nice balance throughout the week and ensures I'm getting a good focus on pulling as striking combat sports are very push based.     
+
+The other side of this is to stretch, not just a quick stretch after a training session but a proper and focused stretch. I have 3 allocated big stretch sessions a week, were I sit in front of the TV for a good 30 stretch all over!
+
+---
+would you mind sharing your stretching routine for the week too?
+
+---
+I have a very strong feeling that these muscle imbalances will lead to injury, it has been researched a bit but more work needs to be done. We actually had a project underway on this before it was postponed by COVID. Unfortunately now it will have to wait until next year. :(
+
+---
+Not a question but would just like to say thanks for representing my old University :)
+
+---
+Bachelor in aviation, and I finished at a great time (end of last year), corona virus is keeping the industry booming. /s
+
+---
+Can you talk a bit about the basic points of balancing water with necessary minerals/electrolytes?
+
+So I went to the gym, I weigh 8 pounds less now that I've come back. How should I go about assessing and consuming a good balance of both?
+
+When I'm in the southern heat exchanging a gallon or more of water per gym day does anything change compared to smaller water exchanges in cooler climates?
+
+---
+Great question! Essentially this requires to think about how your body balances water. Primarily this is manged through the kidneys, but the kidneys have no way of measuring how much water is in your body. They estimate how much by the \*concentration of electrolytes\* in the blood that passes through them.   
+
+When you go to the gym and sweat out 8 pounds you are losing mostly water but also some electrolytes. But you lose a greater portion of water than electrolytes, so the concentration goes up and your kidneys retain water. If you then ingest pure water you will be returning the fluid component but not the electrolyte one, thus \*reducing\* the concentration of electrolytes and encouraging your kidneys to filter out more water even though your body needs it!    
+
+To prevent this it is important to be replacing that electrolyte component too (primarily sodium). Now the best way to do this is a bit of a debate within the field but IMO it's difficult to miss. You could have glucose electrolyte solutions, coconut water, milk (there is actually research showing milk works really well at this and it has the added bonus or protein) or you could considering having a salty snack alongside all your water post-training.   
+
+This also depends on how much water you lose. Under 2% of your body mass isn't a big drama and you are likely fine with pure water and maybe accompany it will a small source of sodium but beyond 2% is where is starts to become really important!
+
+---
+What about potassium and magnesium and all the other mystery electrolytes that sports drinks are selling me on the idea that I'm missing out on?
+
+---
+I do in fact, have kickpants. I also have "boytoy" written across my chest.
+
+---
+Well a very happy mastah cylindah to you, too

@@ -1,0 +1,344 @@
+# VO2 max
+
+V̇O2 max (also maximal oxygen consumption, maximal oxygen uptake or maximal aerobic capacity) is the maximum rate of oxygen consumption attainable during physical exertion. The name is derived from three abbreviations: "V̇" for volume (the dot over the V indicates "per unit of time" in Newton's notation), "O2" for oxygen, and "max" for maximum and usually normalized per kilogram of body mass. A similar measure is V̇O2 peak (peak oxygen consumption), which is the highest rate attained during a session of submaximal physical exercise. It is equal to, or less than, the V̇O2 max. Confusion between these quantities in older and popular fitness literature is common. The capacity of the lung to exchange oxygen and carbon dioxide is constrained by the rate of blood oxygen transport to active tissue. 
+The measurement of V̇O2 max in the laboratory provides a quantitative value of endurance fitness for comparison of individual training effects and between people in endurance training. Maximal oxygen consumption reflects cardiorespiratory fitness and endurance capacity in exercise performance. Elite athletes, such as competitive distance runners, racing cyclists or Olympic cross-country skiers, can achieve V̇O2 max values exceeding 90 mL/(kg·min), while some endurance animals, such as Alaskan huskies, have V̇O2 max values exceeding 200 mL/(kg·min).
+In physical training, especially in its academic literature, V̇O2 max is often used as a reference level to quantify exertion levels, such as 65% V̇O2 max as a threshold for sustainable exercise, which is generally regarded as more rigorous than heart rate, but is more elaborate to measure.
+
+V̇O2 max is expressed either as an absolute rate in (for example) litres of oxygen per minute (L/min) or as a relative rate in (for example) millilitres of oxygen per kilogram of the body mass per minute (e.g., mL/(kg·min)). The latter expression is often used to compare the performance of endurance sports athletes. However, V̇O2 max generally does not vary linearly with body mass, either among individuals within a species or among species, so comparisons of the performance capacities of individuals or species that differ in body size must be done with appropriate statistical procedures, such as analysis of covariance.
+
+Accurately measuring V̇O2 max involves a physical effort sufficient in duration and intensity to fully tax the aerobic energy system. In general clinical and athletic testing, this usually involves a graded exercise test in which exercise intensity is progressively increased while measuring: 
+
+ventilation and
+oxygen and carbon dioxide concentration of the inhaled and exhaled air.
+V̇O2 max is measured during a cardiopulmonary exercise test (CPX test). The test is done on a treadmill or cycle ergometer. In untrained subjects, V̇O2 max is 10% to 20% lower when using a cycle ergometer compared with a treadmill. However, trained cyclists' results on the cycle ergometer are equal to or even higher than those obtained on the treadmill.
+The classic V̇O2 max, in the sense of Hill and Lupton (1923), is reached when oxygen consumption remains at a steady state ("plateau") despite an increase in workload. The occurrence of a plateau is not guaranteed and may vary by person and sampling interval, leading to modified protocols with varied results.
+
+V̇O2 may also be calculated by the Fick equation:
+
+  
+    
+      
+        
+          
+            
+              
+                V
+                ˙
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        =
+        Q
+        ×
+         
+        (
+        
+          C
+          
+            a
+          
+        
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        −
+        
+          C
+          
+            v
+          
+        
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\ce {{\dot {V}}O2}}=Q\times \ (C_{a}{\ce {O2}}-C_{v}{\ce {O2}})}
+  
+, when these values are obtained during exertion at a maximal effort. Here Q is the cardiac output of the heart, CaO2 is the arterial oxygen content, and CvO2 is the venous oxygen content. (CaO2 – CvO2) is also known as the arteriovenous oxygen difference.
+The Fick equation may be used to measure V̇O2 in critically ill patients, but its usefulness is low even in non-exerted cases. Using a breath-based VO2 to estimate cardiac output, on the other hand, seems to be reliable enough.
+
+The necessity for a subject to exert maximum effort in order to accurately measure V̇O2 max can be dangerous in those with compromised respiratory or cardiovascular systems; thus, sub-maximal tests for estimating V̇O2 max have been developed.
+
+An estimate of V̇O2 max is based on maximum and resting heart rates. In the Uth et al. (2004) formulation, it is given by:
+
+  
+    
+      
+        
+          
+            
+              
+                V
+                ˙
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        max
+        ≈
+        
+          
+            
+              
+                HR
+              
+              
+                max
+              
+            
+            
+              
+                HR
+              
+              
+                rest
+              
+            
+          
+        
+        ×
+        15.3
+        
+           mL
+        
+        
+          /
+        
+        (
+        
+          kg
+        
+        ⋅
+        
+          minute
+        
+        )
+      
+    
+    {\displaystyle {\ce {{\dot {V}}O2}}\max \approx {\frac {{\text{HR}}_{\max }}{{\text{HR}}_{\text{rest}}}}\times 15.3{\text{ mL}}/({\text{kg}}\cdot {\text{minute}})}
+  
+
+This equation uses the ratio of maximum heart rate (HRmax) to resting heart rate (HRrest) to predict V̇O2 max. The researchers cautioned that the conversion rule was based on measurements on well-trained men aged 21 to 51 only, and may not be reliable when applied to other sub-groups. They also advised that the formula is most reliable when based on actual measurement of maximum heart rate, rather than an age-related estimate.
+The Uth constant factor of 15.3 is given for well-trained men. Later studies have revised the constant factor for different populations. According to Voutilainen et al. 2020, the constant factor should be 14 in around 40-year-old normal weight never-smoking men with no cardiovascular diseases, bronchial asthma, or cancer.
+Every 10 years of age reduces the coefficient by one, as well as does the change in body weight from normal weight to obese or the change from never-smoker to smoker. Consequently, V̇O2 max of 60-year-old obese smoking men should be estimated by multiplying the HRmax to HRrest ratio by 10.
+
+Kenneth H. Cooper conducted a study for the United States Air Force in the late 1960s. One of the results of this was the Cooper test in which the distance covered running in 12 minutes is measured. Based on the measured distance, an estimate of V̇O2 max [in mL/(kg·min)] can be calculated by inverting the linear regression equation, giving us:
+
+  
+    
+      
+        
+          
+            
+              
+                V
+                ˙
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        max
+        ≈
+        
+          
+            
+              
+                d
+                
+                  12
+                
+              
+              −
+              504.9
+            
+            44.73
+          
+        
+      
+    
+    {\displaystyle {\ce {{\dot {V}}O2}}\max \approx {d_{12}-504.9 \over 44.73}}
+  
+
+where d12 is the distance (in metres) covered in 12 minutes.
+An alternative equation is:
+
+  
+    
+      
+        
+          
+            
+              
+                V
+                ˙
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        max
+        ≈
+        
+          (
+          35.97
+          ∗
+          
+            d
+            
+              12
+            
+            ′
+          
+          )
+          −
+          11.29
+        
+      
+    
+    {\displaystyle {\ce {{\dot {V}}O2}}\max \approx {(35.97*d'_{12})-11.29}}
+  
+
+where d′12 is distance (in miles) covered in 12 minutes.
+
+There are several other reliable tests and V̇O2 max calculators to estimate V̇O2 max, most notably the multi-stage fitness test (or beep test).
+
+Estimation of V̇O2 max from a timed one-mile track walk (as fast as possible) in decimal minutes (t, e.g.: 20:35 would be specified as 20.58), sex, age in years, body weight in pounds (BW, lbs), and 60-second heart rate in beats-per-minute (HR, bpm) at the end of the mile. The constant x is 6.3150 for males, 0 for females.
+
+  
+    
+      
+        
+          
+            
+              
+                V
+                ˙
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        max
+        ≈
+        132.853
+        −
+        0.0769
+        ⋅
+        
+          BW
+        
+        −
+        0.3877
+        ⋅
+        
+          age
+        
+        −
+        3.2649
+        t
+        −
+        0.1565
+        ⋅
+        
+          HR
+        
+        +
+        x
+      
+    
+    {\displaystyle {\ce {{\dot {V}}O2}}\max \approx 132.853-0.0769\cdot {\text{BW}}-0.3877\cdot {\text{age}}-3.2649t-0.1565\cdot {\text{HR}}+x}
+  
+
+Correlation coefficient r for the generalized formula is 0.88.
+
+Men have a V̇O2 max that is 26% higher (6.6 mL/(kg·min)) than women for treadmill and 37.9% higher (7.6 mL/(kg·min)) than women for cycle ergometer on average. V̇O2 max is on average 22% higher (4.5 mL/(kg·min)) when measured using a treadmill compared with a cycle ergometer.
+
+The average untrained healthy male has a V̇O2 max of approximately 35–40 mL/(kg·min). The average untrained healthy female has a V̇O2 max of approximately 27–31 mL/(kg·min). These scores can improve with training and decrease with age, though the degree of trainability also varies widely.
+
+In sports where endurance is an important component in performance, such as road cycling, rowing, cross-country skiing, swimming, and long-distance running, world-class athletes typically have high V̇O2 max values. Elite male runners can consume up to 85 mL/(kg·min), and female elite runners can consume about 77 mL/(kg·min).
+Norwegian cyclist Oskar Svendsen holds the record for the highest V̇O2 ever tested with 97.5 mL/(kg·min).
+
+V̇O2 max has been measured in other animal species. During loaded swimming, mice had a V̇O2 max of around 140 mL/(kg·min). Thoroughbred horses had a V̇O2 max of around 193 mL/(kg·min) after 18 weeks of high-intensity training. Alaskan huskies running in the Iditarod Trail Sled Dog Race had V̇O2 max values as high as 240 mL/(kg·min). Estimated V̇O2 max for pronghorn antelopes was as high as 300 mL/(kg·min).
+
+The factors affecting V̇O2 may be separated into supply and demand. Supply is the transport of oxygen from the lungs to the mitochondria (combining pulmonary function, cardiac output, blood volume, and capillary density of the skeletal muscle) while demand is the rate at which the mitochondria can reduce oxygen in the process of oxidative phosphorylation. Of these, the supply factors may be more limiting. However, it has also been argued that while trained subjects are probably supply limited, untrained subjects can indeed have a demand limitation.
+General characteristics that affect V̇O2 max include age, sex, fitness and training, and altitude. V̇O2 max can be a poor predictor of performance in runners due to variations in running economy and fatigue resistance during prolonged exercise. The body works as a system. If one of these factors is sub-par, then the whole system's normal capacity is reduced.
+The drug erythropoietin (EPO) can boost V̇O2 max by a significant amount in both humans and other mammals. This makes EPO attractive to athletes in endurance sports, such as professional cycling. EPO has been banned since the 1990s as an illicit performance-enhancing substance, but by 1998 it had become widespread in cycling and led to the Festina affair as well as being mentioned ubiquitously in the USADA 2012 report on the U.S. Postal Service Pro Cycling Team. Greg LeMond has suggested establishing a baseline for riders' V̇O2 max (and other attributes) to detect abnormal performance increases.
+
+V̇O2 max/peak is widely used as an indicator of cardiorespiratory fitness (CRF) in select groups of athletes or, rarely, in people under assessment for disease risk. In 2016, the American Heart Association (AHA) published a scientific statement recommending that CRF – quantifiable as V̇O2 max/peak – be regularly assessed and used as a clinical vital sign; ergometry (exercise wattage measurement) may be used if V̇O2 is unavailable. This statement was based on evidence that lower fitness levels are associated with a higher risk of cardiovascular disease, all-cause mortality, and mortality rates. In addition to risk assessment, the AHA recommendation cited the value for measuring fitness to validate exercise prescriptions, physical activity counseling, and improve both management and health of people being assessed.
+A 2023 meta-analysis of observational cohort studies showed an inverse and independent association between V̇O2 max and all-cause mortality risk. Every one metabolic equivalent increase in estimated cardiorespiratory fitness was associated with an 11% reduction in mortality. The top third of V̇O2 max scores represented a 45% lower mortality in people compared with the lowest third.
+As of 2023, V̇O2 max is rarely employed in routine clinical practice to assess cardiorespiratory fitness or mortality due to its considerable demand for resources and costs.
+
+British physiologist Archibald Hill introduced the concepts of maximal oxygen uptake and oxygen debt in 1922. Hill and German physician Otto Meyerhof shared the 1922 Nobel Prize in Physiology or Medicine for their independent work related to muscle energy metabolism. Building on this work, scientists began measuring oxygen consumption during exercise. Key contributions were made by Henry Taylor at the University of Minnesota, Scandinavian scientists Per-Olof Åstrand and Bengt Saltin in the 1950s and 60s, the Harvard Fatigue Laboratory, German universities, and the Copenhagen Muscle Research Centre.
+
+Anaerobic exercise
+Arteriovenous oxygen difference
+Cardiorespiratory fitness
+Comparative physiology
+Oxygen pulse
+Respirometry
+Running economy
+Training effect
+VDOT
+vVO2max

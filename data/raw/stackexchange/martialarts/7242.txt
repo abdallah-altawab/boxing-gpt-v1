@@ -1,0 +1,6 @@
+# How I can read &quot;Record&quot; results of MMA Fight?
+
+Looking at the Wikipedia article for Mirko Filipović , his " Mixed martial arts record " is shown as a table with a "Record" column. How do I interpret this column? Example #1(without brackets): Example #2(with brackets): I think it means: 1st Round Points - 2nd Round Points - 3th Round Points ( ? )
+
+## Answer (score: 8)
+The record is Mirko Filipović's cumulative record as of each fight. It is not a recording of what happened in that particular fight. The breakdown is: Wins - Losses - Draws (No contests) Taking your example 2 as a concrete example: 34–11–2 (1) 34 wins 11 losses 2 draws 1 no contest (fight stop by officials without a winner)

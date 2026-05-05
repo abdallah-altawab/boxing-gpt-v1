@@ -1,0 +1,127 @@
+# Why do i punch like a pillow
+
+Because you have decided to not think about what constitutes a *good punch* and it's science, i think most people who have been around a boxing gym for a while have been wondering about the physics in a strike, at least the average boxing punch.
+
+Now, this is way past my area of comfort (I failed at physics in High school) but the concept is rather simple
+
+**Your punch has a goal and that is to transfer as much energy from you to your opponent that is possible.** 
+
+* Studies suggest that punching force is dependent on the **Impulse-Momentum** relationship.
+
+Now, how do we define **Momentum**? well:
+* Momentum = mass x velocity 
+
+And how do we define **[Impulse](http://hyperphysics.phy-astr.gsu.edu/hbase/impulse.html)**? easy peasy:
+* Impulse = force x time 
+
+* *The strike itself has power because there is such a thing called third of Newton's laws of motion. It basically is force of action equals force of reaction.* 
+
+* If you want to “hit harder” you should look to maximizing your momentum by increasing your velocity and/or your mass. But you also need to look closely at how you transfer that momentum.
+
+Some specifics :
+
+**Mass**
+
+The more mass you can put into a punch, the more force you will generate. You can see this in action by punching a heavy bag with your arm only and comparing it to the power you can generate by driving through the ground with your legs and rotating your hips. Your full weight behind the punch will create a decidedly different result as the mass **remains the same**.
+
+**How do i add mass to my punches?** Ah well, easier said than done but there is some basic guidelines :
+
+* Shoulder and hip in line
+* Drive through your legs and rotate your hips
+* Engage your core 
+* Extend and follow through (Don't pull back before time, imagine punching through the target to inflict serious[damage](https://www.stack.com/a/punching-power).
+  
+
+**Acceleration**
+
+Punching faster is mostly technique driven. Your punches get faster as you learn to punch better, it isn't too complex, right?
+Now some people can develop a nice explosive punch but this also comes from somewhere and it also takes development. 
+
+You can see the impulse-momentum theorem in action when someone rolls with a punch.  The increased contact time when you roll decreases the net force of the punch.  Fighters are often knocked out when they move into a punch, decreasing the time of interaction, resulting in a larger [force](https://www.physicsthisweek.com/topic/impulse-momentum-theorem-action/).
+
+**How do i add speed to my punches?** Oh, look at the other ingredient of an effective punch: 
+
+* Recoil your hip (Recoiling your punch helps you maintain "incidental defense" and puts you in a position to release a second punch. To pull your punch back faster, think about recoiling your hip, not your hand. If the hip returns quickly, everything else will follow.)
+* What **distinguishes a strike from a push**? It is your deceleration before hitting the wall. The more you decelerate before you reach your target, the slower the velocity at impact or hitting a wall with your car at 80 rather than slowing down to 60 and slower by the time impact happens. If your velocity at the point of impact is low, you’ll effect more of a push. If your velocity at the point of impact is high, you’ll effect a [blow](https://www.wayofleastresistance.net/2008/09/hitting-harder-physics-made-easy.html).
+* Punch on a half beat (consider the basic 1-2 combo. The '1' punch should always pass the '2' punch when it's halfway through the motion.)
+*Load naturally (Loading for a punch should occur after a punch, slip or roll. This allows you to absorb and then transfer energy in a quick and fluid motion.)
+* A punch in boxing requires a lot of to be force produced in a short space of time. This is often called – rate of force development, now what is rate of force development well it's defined as  a measure of explosive strength, or simply how fast an athlete can develop force and in boxing this means **Hand [speed](http://boxingscience.co.uk/science-behind-punch/)**. 
+
+**Do muscles matter or should i trust my Chi-Energy-Aura?** 
+
+* Muscles matter and we include lower and upper body strength, acceleration and mass of the core muscles.
+* It's not just your arms tho, not just biceps, nor triceps not chest alone but the complexity of working on all of your body, elite level boxers aren't just top body bros, it's all your body.
+* It's not just having muscles but their interaction and coordination as we improve the way muscles, joints and limbs co-ordinate with each other (contraction sequencing). 
+
+
+*In conclusion, there is a ton of science behind a good punch and most of it agrees that your whole body needs to be coordinated and  there is no specific muscle or muscle group that is the punch section but rather a work of the whole body into delivering a good, destructive blow*
+
+**Have fun punching each other**
+
+
+~~Considerations:~~
+~~English is a second language to me so i may as well apologize for all typos done in this post.~~
+~~I suck at physics so take into account that, the science is backed up but my explanation of it will likely be terrible.~~
+
+---
+Yes and it always turned into a nightmare because other guy was laughing at me and my weak slow-mo punches.
+But since I started training BJJ I grapple in my dreams and slow-mo rnc is still rnc.
+
+---
+In my dreams the RNC always fails to fully choke, but I'm still behind them with their head locked into place, so. Slightly better?
+
+---
+The only fight I ever won in a dream had me breaking my hand and resorting to elbows (muay thai background). Luckily the elbows had me winning until I woke up.
+
+---
+It's crazy because my dream punches have an ungodly amount of power.. Must be all that anime I've been watching
+
+---
+So what you’re saying is... I need to fall asleep to One Punch Man 🤔
+
+---
+i tried learning how to lucid dream and now my punches work in dreams
+
+---
+As an engineer who likes to box, like 95% right on the physics but good advice all around.
+One point I disagree with is the strike vs. push. It’s not a question of velocity at the time you punch. In a strike it’s about reducing the time that your fist is in contact with the other person. You do that by as soon as you make contact with the other person, you no longer apply a force to your hand. Imagine a whip cracking, it goes slack as soon as it makes contact and leaves a big mark on the surface but doesn’t penetrate that deep.
+With a push you continue to apply that force and therefore increase the overall energy transfer but you sacrifice it for putting yourself in a vulnerable position for more time.
+
+---
+Oh dude since you are the actual master In physics let me know what to edit and I will, no biggie !
+
+---
+Not an expert on this, mostly work with fluid mechanics, so wouldn’t take my word as law. Also newish to boxing (2 years).
+Doesn’t affect the conclusion you came to, but your comments on rotating you body to increase mass and therefore momentum is more of a instance where it just increases the number of muscles you can engage in order punch. If you just punch with your arm, you can’t really generate that much force once you hit your target. As you engage your legs and core, you are able to apply more force because you have those significantly stronger muscles working for you but you really only see the effects of that once the punch lands, fist speed doesn’t change that much due to some geometry related reasons.
+
+---
+Yeah, the formula for Kinetic energy is 1/2(mass x velocity^2). Velocity being squared here is an interesting take-away for boxing, showing how important it is to whip-crack your punches through your body to get that high speed impact.
+
+For mass transfer you have to chain mass behind your fist and the important take-away is how much force transfer is LOST in all the flexion back through the wrist, elbow, shoulder, and torso. Getting poked with an iron chain doesn't hurt, but getting poked with an iron rod will definitely hurt. That's because of all the flexion in each joint. Don't be pushing rope at the time of impact, stay loose and tense just for the split second you land.
+
+---
+I think the physics are like 50% right, if that: they are not tying the correct physics with the right technique. The technique is all fine otherwise.
+
+I think what works for everybody is to figure out how you best conceptualize/learn/model and pursue that. Some people just "feel" it out, others need to whittle away at perfect technique, others can really improve their force by reading the OP.
+
+---
+I don't think this is exactly correct. First of all the force on impact is much more significant than the force during the push. The reason is the change in momentum during the short time of impact is typically much larger than the afterwards acceleration (think of the head travels together with the punch after contact, the brain do not receive the same shock as it did right during the contact). 
+
+The true reason why a punch that pushes usually generates more power is due to the velocity in the fist. If you aim further than your target, the velocity peaks when you hit the target, results in largest momentum. The fist slows down as it reaches the maximum length, thus doing less damage if contact is at the end of the punch.
+
+---
+I’d argue that it’s more about delta v than contact time, because humans are sensitive changes in velocity (roller coasters, spinning, etc). Once the whip goes slack it doesn’t affect the outcome, but in that moment when all of those little dFn’s are pushing through the accelerating tip, the damage is done. Your skin accelerates faster than it can handle, and it breaks. Some momentum is returned to the whip, and it falls back limply. When you swing a hammer at a nail, you get a similar effect, but it has more mass and stays more rigid (and likely has a lower end velocity). The end of contact likely isn’t what affects the hurt, but rather delta p (as OP suggested). As my physics teacher back in high school put it: when a biker gets hit by a bus, they feel the same force, but the biker feels a MUCH bigger acceleration.
+
+I also agree about pushing putting you in a vulnerable position for longer, but that’s more of a strategy/fight smarts thing ;P
+
+In the end, there’re a lot of factors that go into making a punch hurt—technique, timing, relaxation, strength, rotation, etc (both in terms of physics and kinesiology), and it’s difficult to generalize it with high school physics. You’re a fluid mechanics guy, so you can relate to how complex these systems can get
+
+Source: BS in Biophysics + 4 years doing personal/performance training and kinesiology—love to discuss this sort of thing
+
+---
+In this case Delta V (i prefer to use V and U) is in relation to contact time, with higher final momentum, the contact time is reduced increasing the force exerted. refer to my comment where I broke down the physics.
+
+[https://www.reddit.com/r/amateur\_boxing/comments/dozowd/why\_do\_i\_punch\_like\_a\_pillow/f5thz94?utm\_source=share&utm\_medium=web2x](https://www.reddit.com/r/amateur_boxing/comments/dozowd/why_do_i_punch_like_a_pillow/f5thz94?utm_source=share&utm_medium=web2x)
+
+---
+So technically a push would deal more damage than a strike?
